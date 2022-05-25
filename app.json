@@ -1,7 +1,6 @@
 {
-  "name": "Alloy",
-  "description": "A Titanium Network web proxy.",
-  "repository": "https://github.com/titaniumnetwork-dev/alloy/",
-  "logo": "https://avatars.githubusercontent.com/u/47227492?s=200&v=4",
-  "keywords": ["alloy", "proxy", "web-unblocker", "internet", "alloyproxy"]
+  "name": "Bypass 3",
+  "description": "Legacy Bypass used for less complex games like slither.io",
+  "repository": "https://github.com/maddox0816/bypass-3",
+  "keywords": ["bypass", "TMN", "BYpass 3", "internet"]
 }
